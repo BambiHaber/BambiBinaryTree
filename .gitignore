@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+.gitignore
 
 # Compiled Object files
 *.slo
@@ -15,7 +16,8 @@
 *.so
 *.dylib
 *.dll
-
+node_modules
+.idea
 # Fortran module files
 *.mod
 *.smod
@@ -25,7 +27,7 @@
 *.la
 *.a
 *.lib
-
+*.lock
 # Executables
 *.exe
 *.out

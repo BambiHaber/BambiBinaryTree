@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+
+    "sourceMap": true,
+    "outDir": "./dist",
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "importHelpers": true,
+    "allowJs": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "allowUmdGlobalAccess": true,
+    "lib": [
+      "ES2015",
+      "decorators",
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.iterable"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

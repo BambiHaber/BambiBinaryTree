@@ -1,0 +1,29 @@
+{
+  "name": "bambibinarytree",
+  "version": "1.0.0",
+  "description": "Simple Binary Tree Implementation and Visualization, which transpiles to JS",
+  "main": "/src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BambiHaber/BambiBinaryTree.git"
+  },
+  "keywords": [
+    "BinaryTree",
+    "BinaryTreeView"
+  ],
+  "author": "Bambi Haber",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BambiHaber/BambiBinaryTree/issues"
+  },
+  "homepage": "https://github.com/BambiHaber/BambiBinaryTree#readme",
+  "devDependencies": {
+    "ts-lib": "^0.0.5",
+    "tslib": "^2.5.3",
+    "typescript": "^5.1.3",
+    "@types/node": "^20.3.1"
+  }
+}
